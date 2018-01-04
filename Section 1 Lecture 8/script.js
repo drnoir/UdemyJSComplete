@@ -1,3 +1,3 @@
 document.write("Welcome");
 alert("hello");
-alert("it worked");
+console.log("it worked");
